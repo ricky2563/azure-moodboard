@@ -11,7 +11,7 @@
 
 ## 🚀 About The Project
 
-MoodBoard AI is a web application designed to simulate professional tools like **Miro** or **Pinterest**. Unlike simple CRUD apps, it focuses on:
+MoodBoard Azure is a web application designed to simulate professional tools like **Miro** or **Pinterest**. Unlike simple CRUD apps, it focuses on:
 
 - Handling **unstructured visual data**.
 - Maintaining **interactive UI states**.
