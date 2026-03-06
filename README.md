@@ -1,4 +1,4 @@
-# 🎨 MoodBoard AI
+# 🎨 MoodBoard Azure
 
 ![Project Status](https://img.shields.io/badge/status-live-success)  
 ![Tech Stack](https://img.shields.io/badge/stack-Next.js_16_|_Azure_|_Tailwind-blue)
